@@ -12,7 +12,8 @@
 ![todo](https://user-images.githubusercontent.com/89396716/202830657-8217d37f-c6ca-483a-967a-a8a6a681a55b.png)
 
 ### Testing List component
-![todo](https://user-images.githubusercontent.com/89396716/202830719-b77e7a15-d7bd-43b7-85e8-1fadbe1f2204.png)
+![List](https://user-images.githubusercontent.com/89396716/202830847-91759578-d949-46e7-98f7-78dae3b1199d.png)
+
 
 ### Testing Request component
 ![Request](https://user-images.githubusercontent.com/89396716/202830769-b0f528f1-54db-4381-b94e-7cb0590421ce.png)
